@@ -1,0 +1,26 @@
+{
+    "id": "main-menu-1",
+    "section": "menu-1",
+    "menu": [
+        {
+            "id": 1,
+            "text": "Home",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "About",
+            "path": "about"
+        },
+        {
+            "id": 3,
+            "text": "Research",
+            "path": "blog"
+        },
+        {
+            "id": 4,
+            "text": "Volunteering",
+            "path": "testimonial"
+        }
+    ]
+}

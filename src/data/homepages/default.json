@@ -1,0 +1,163 @@
+{
+    "title": "default-home",
+    "content": [
+        {
+            "id": "default-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "Welcome"
+                },
+                {
+                    "content": "Hi, I’m <span>Bhavana Sivayokan</span>"
+                }
+            ],
+            "animated_texts": [
+                "Researcher.",
+                "Bharathanatyam Dancer .",
+                "Photography Enthusiast."
+            ],
+            "texts": [
+                {
+                    "content": "A student of medicine by profession; a student of arts by passion. "
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/front-image.jpg",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "default-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": ""
+            },
+            "texts": [
+                {
+                    "content": "I'm  an avid reader, and a trained Bharatanatyam dancer, who also dabbles in photography. I consider it a privilege to use my arts as tools of storytelling. As a believer of volunteerism, I volunteer my time predominantly to the service of children with Autism Spectrum Disorder."
+                },
+                {
+                    "content": "I’m passionate about mental health, which is reflected in my writings and research works."
+                },
+                {
+                    "content": "Broadly, I am interested in the psychology of children, especially developmental psychology, and behavioral psychology."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "https://drive.google.com/file/d/1yD4CbkbtHDp4G9IMYZXBvEss2_5PsP0C/view?usp=sharing",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about-me.jpg"
+                }
+            ]
+        },
+        {
+            "id": "default-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Research",
+                "subtitle": ""
+            }
+        },
+        {
+            "id": "default-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Volunteer Experience",
+                "subtitle": ""
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Mathavam - Center for Neuro-developmental Disorders",
+                    "designation": "2017 - present",
+                    "description": "Mathavam is a center for neuro-developmental disorders, developed in Jaffna, Sri Lanka, in 2014, with the partnership of the Department of Health, Mental Health Society, and the International Medical Health Organization. It predominantly provides services for children with Autism Spectrum Disorder. Such services include assessing children for ASD, providing initial training for children with ASD, involving parents, speech therapy services for a limited number of children, conducting awareness programs for preschool teachers and public, and facilitating knowledge sharing locally with the help of visiting experts. Considering the limited resources, there is always a place for volunteers in this center when it comes to  services provision, as well as other activities, including documenting the center’s services, promoting autism awareness, and creating teaching and learning materials to be used in the training of the children as well as their parents. ",
+                    "images": [
+                        {
+                            "src": "../images/volunteer/Mathavam - version 2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "COMGAP-S phase two",
+                    "designation": "2017",
+                    "description": "COMGAP-S is a two-phase study that aimed to integrate mental health services into primary care to meet the needs of the post-conflict population in Sri Lanka. Phase Two of this study involved implementing the World Health Organization’s mental health Gap Action Programme (mhGAP) in primary healthcare settings. In order to do so, eleven mhGAP training videos were re-filmed within the Sri Lankan context and in the dialect of Tamil language spoken in the northern regions of the country. English subtitles were included. Re-filming these videos was carried out in a partnership between Anglia Ruskin University (UK), the THEME Institute, and the University of Jaffna, Sri Lanka.",
+                    "images": [
+                        {
+                            "src": "../images/volunteer/comgap.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Anai",
+                    "designation": "2018 - present",
+                    "description": "Anai (transl. Embrace) is a group working in collaboration with the Jaffna Social Action Centre. Its goals are to help teachers in providing a ‘learning friendly’ environment in the classrooms for children thereby maximizing the potentials of these children.",
+                    "images": [
+                        {
+                            "src": "../images/volunteer/Anai.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Translation for NIHR Global Health Research Group - Violence and Mental Health in South Asia (VAMHSA) study",
+                    "designation": "2020",
+                    "description": "The Violence and Mental Health in South Asia (VAMHSA) Study in Sri Lanka is led by University College London, University of Colombo, Teaching Hospital Jaffna, and the Institute for Health Policy. NIHR Global Health Research Group is developing a comprehensive, adaptable package of care to improve the mental health of survivors of violence against women and girls (VAWG), modern slavery, and civil conflict in resource-constrained settings in India, Sri Lanka, and Afghanistan.",
+                    "images": [
+                        {
+                            "src": "../images/volunteer/VAHMSA.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Manaveli website",
+                    "designation": "2021",
+                    "description": "There is a need for resources on topics pertaining to Mental Health in the Tamil language. Manaveli is a website created to meet this need. This website contains information regarding common psychiatric illnesses, commonly used psychiatric medications, and different modes of therapy. In addition, it also includes articles on various aspects of mental wellbeing.",
+                    "images": [
+                        {
+                            "src": "../images/volunteer/Manaveli.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Nevine Acotanza"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}
