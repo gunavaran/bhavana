@@ -1,17 +1,20 @@
 ---
-title: Depression, cognitive impairment, and disability among elderly medical clinic attendees
+title: The outcome of supporting housing for people with long term mental illness
 date: 2021
-category: none
+category: america
 image: {
-	src: "../images/blog/R1.jpg"
+	src: "../images/blog/R4.jpg"
 }
 ---
 
-Bhavana, S., Somasiri, W.G.N.C., Gunarathna, W.G.M.M.A.I, Thayananthi, M., Nihanatha, M., Coonghe, P.A.D., Sivayokan, S., Suganthan, N
+Sivayokan, S., Ravikanth, L., Ganesan, M., Vashini, S., Bhavana, S.
 
-With the aging population in Sri Lanka growing, it becomes necessary to arrange specialized care and treatment to meet the needs of the elderly. The first step in this process is to identify such needs. This institution-based, descriptive cross-sectional study was carried out in the medical clinics at the Teaching Hospital Jaffna, with the aim of assessing the prevalence and correlates of depression, cognitive impairment, and disability among the elderly patients attending these clinics. Depression was assessed by the 15-item Geriatric Depression scale, while cognitive status was assessed by the Montreal Cognitive Assessment, and disability by the 12-item interviewer-administered World Health Organization Disability Assessment Schedule 2.0. Sociodemographic details were collected by a short questionnaire.
+A significant number of people with mental illnesses and related disabilities are often at risk of long-term institutionalization and/or homelessness due to the conspicuous absence of pathways for reintegration into the society. The situation remains the same in the Northern Province of Sri Lanka, where a significant number of homeless mentally ill persons are staying in institutions other than hospitals.
 
-The results of this study revealed that among the elders attending the clinic, 2 in 5 had depression, 4 in 5 had cognitive impairment, while almost all had some degree of disability. Furthermore, females and those living alone were found to be more at risk of developing depression. Those not in marital life were found more likely to develop depression, and disability, while those with no formal education or only primary education more likely to develop cognitive impairment, and disability.
+In this context, the Home Again: Housing with Supportive Services for People with Psychosocial Disabilities Experiencing Long-Term Care Needs program, which is an initiation of the Banyan organization, a non-governmental organization based in Chennai, India, and funded by Grand Challenges Canada using funds received from the Department of Health and Social Care, through the National Institute for Health Research, United Kingdom, gives an opportunity to reintegrate 40 mentally ill clients in Northern Sri Lanka, who have long been living in institutionalized settings, into the community by providing supportive housing facilities and enhancing their independent living skills.
 
-Involved in all phases of the study. Contributed to this study in its conceptualization, drafting the protocols and translating the study instruments into the local language. Carried out data analysis using SPSS. Was responsible for the manuscript production, including the review of literature.
-Presented this study at the Annual Academic Sessions of the Jaffna Medical Association, and the Undergraduate Research Symposium of the Faculty of Medicine, University of Jaffna.
+This study proposes to explore the effectiveness of such a program by studying its outcome. It aims to determine the psychosocial outcome of a supported housing program for the mentally ill at the end of 06 months and 12 months.
+
+Designed as a longitudinal descriptive study that is being carried out among 40 participants of the ‘Home Again’ project, in the supported houses set up in community settings, this study employs quantitative approach in a repeated measures design, to determine the changes in participants over time. The outcomes of interest at the participant level are measured using the Modified Colorado Symptom Index scale, World Health Organization Disability Assessment Schedule 2.0, Quality of Life Interview (TL 30s), Community Integration Questionnaire, and Herth Hope Index. This study is currently in its data collection phase. 
+
+This study is currently in its data collection phase. Involved in drafting the study protocol and contributed to translating the study instruments into the local language.

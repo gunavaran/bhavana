@@ -1,17 +1,18 @@
 ---
-title: Concerns of healthcare workers in responding to COVID-19 pandemic
+title: An audit on Consultation Liaison Psychiatry
 date: 2021
 category: america
 image: {
-	src: "../images/blog/R2.jpg"
+	src: "../images/blog/R5.jpg"
 }
 ---
 
-Sivayokan, S., Subendran, M., Sivathas, S., Vaitheki, U., Madona, H.S., Kumarangi, S.K., Bhavana, S
+Sivayokan, S., Vaitheki, U., Kalaichelvi, P., Bhavana, S
 
-The COVID-19 pandemic had put a tremendous strain upon the healthcare system, creating many challenges for healthcare workers. These challenges include not only increased workload, and mental health outcomes, but also other broader concerns, such as concern for their families and fear of stigmatization. During the initial months of the pandemic, all the studies assessing the level of various mental health conditions among healthcare workers, were carried out abroad. As a result, none of them reflected the views of healthcare workers in Sri Lanka during that time.
+The Mental Health Unit at Teaching Hospital Jaffna is perhaps the largest mental health facility in the Northern Province of Sri Lanka. It handles a huge caseload, and provides all kinds of services from assessments, medical and psychological managements, electroconvulsive therapies, liaison services, and forensic assessments. In addition, it also serves as the hub for the rest of the district mental health services. It serves around 2000 new patients a year, among which, around 1000 are from ward referrals. Since there has always been a high demand for mental health services and a lack of adequate staff members, the unit hardly has any detailed descriptions of the services it provides. In this background, this audit on the consultation-liaison services is designed to shed light on the service demands and deliveries.
 
-With this in mind, this institution-based, descriptive cross-sectional study was conducted with the aim of exploring the concerns of healthcare workers, through their perceived level of satisfaction of knowledge, training, and sense of competence regarding this pandemic, satisfaction in arrangements made in working environments, feeling of compassion and commitment, and perception on selected challenges. This study also described the influence of selected demographic and job-related factors on these concerns.
-Carried out at Teaching Hospital Jaffna, among healthcare workers, including medical and dental specialists, medical and dental doctors, nursing officers, and health service assistants, this study led to the conclusion that despite their concerns and difficulties, 84.2% of the health care workers felt happy providing their services during the COVID-19 pandemic, thus showing the spirit of the health care workers.
+This institution-based descriptive cross-sectional study, which is being conducted in the Mental Health Unit of Teaching Hospital Jaffna, aims to describe the sociodemographic and clinical profile of the patients referred to the Mental Health Unit of Teaching Hospital Jaffna.
 
-Involved in all phases of the study. Contributed to drafting the protocols, entering and managing the database, and analyzing the data using SPSS.
+This study is currently in its data collection phase. Two interim reports have been presented at scientific conferences.
+
+Involved in drafting the study protocol and designing the data collection tool. Carried out the interim data analysis using RStudio. Contributed to the presentation at the Research Conference of Faculty of Medicine, Jaffna - 2022, and designed the poster presented at the Annual Academic Sessions 2022 of the Sri Lanka College of Psychiatrists.

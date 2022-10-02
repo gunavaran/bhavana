@@ -1,18 +1,17 @@
 ---
-title: Clinical and sociodemographic profiles of children with Autism Spectrum Disorder
+title: Depression, cognitive impairment, and disability among elderly medical clinic attendees
 date: 2021
-category: america
+category: none
 image: {
-	src: "../images/blog/R3.jpg"
+	src: "../images/blog/R1.jpg"
 }
 ---
 
-Sivayokan, S., Kumanan, T., Sathiadas, M.G., Tharmila, S., Bhavana, S.
+Bhavana, S., Somasiri, W.G.N.C., Gunarathna, W.G.M.M.A.I, Thayananthi, M., Nihanatha, M., Coonghe, P.A.D., Sivayokan, S., Suganthan, N
 
-The incidence, prevalence, and awareness of neuro-developmental disorders, particularly Autism Spectrum Disorders (ASD) are on the increase in Sri Lanka, on par with the rest of the world. However, the services related to neuro-developmental disorders are only slowly being developed in this country. Providing care for children with ASD is carried out using various models of interventions. However, these interventions consume a lot of resources and facilities. Since Autism is a spectrum of disorders, each child diagnosed with ASD needs an individualized set of interventions.
+With the aging population in Sri Lanka growing, it becomes necessary to arrange specialized care and treatment to meet the needs of the elderly. The first step in this process is to identify such needs. This institution-based, descriptive cross-sectional study was carried out in the medical clinics at the Teaching Hospital Jaffna, with the aim of assessing the prevalence and correlates of depression, cognitive impairment, and disability among the elderly patients attending these clinics. Depression was assessed by the 15-item Geriatric Depression scale, while cognitive status was assessed by the Montreal Cognitive Assessment, and disability by the 12-item interviewer-administered World Health Organization Disability Assessment Schedule 2.0. Sociodemographic details were collected by a short questionnaire.
 
-In spite of the resource-limited setting, a center for neuro-developmental disorders was developed in Jaffna, Sri Lanka, in 2014, with the partnership of the Department of Health, Mental Health Society, and the International Medical Health Organization. For over seven years, this institution has been providing various services, including assessing children for Autism Spectrum Disorder, providing initial training for children with Autism Spectrum Disorder, speech therapy services, and much more. In this context, this study describes the clinical and sociodemographic profile of the children who have attended Mathavam with a diagnosis of Autism Spectrum Disorder.
+The results of this study revealed that among the elders attending the clinic, 2 in 5 had depression, 4 in 5 had cognitive impairment, while almost all had some degree of disability. Furthermore, females and those living alone were found to be more at risk of developing depression. Those not in marital life were found more likely to develop depression, and disability, while those with no formal education or only primary education more likely to develop cognitive impairment, and disability.
 
-The male:female ratio of the children was found to be 5:2. The mean ages of suspicion, diagnosis and seeking help from the center were found to be 2.7, 3.4, and 3.7 years respectively. During the initial assessment, the mean CARS score of these children was 31.9 (SD 4.2). The major clinical presentations were recorded as speech related complaints (100%), poor eye contact (95%), not responding to call (95%), poor socialization (96.7%), and stereotypic behaviors (81%). The major sensory issues were found to be in the vestibular (66%), touch (56%), visual (53%) and auditory (31%) domains.
-
-Involved in all phases of the study. Contributed to drafting the protocols, designing the data extraction forms, data cleaning, management of the database, and analyzing the data. Presented this study at the 5th Biennial Conference of the Sri Lanka Association for Child Development.
+Involved in all phases of the study. Contributed to this study in its conceptualization, drafting the protocols and translating the study instruments into the local language. Carried out data analysis using SPSS. Was responsible for the manuscript production, including the review of literature.
+Presented this study at the Annual Academic Sessions 2021 of the Jaffna Medical Association, and the 4th Undergraduate Research Symposium of the Faculty of Medicine, University of Jaffna.

@@ -38,7 +38,7 @@ const BlogArea = ({ data, id }) => {
                                 slug={blog.slug}
                                 
                                 image={blog.image}
-                                date={blog.date}
+                                // date={blog.date}
                                 content={blog.content}
                                 
                             />
