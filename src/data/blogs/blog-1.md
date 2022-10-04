@@ -1,5 +1,5 @@
 ---
-title: The outcome of supporting housing for people with long term mental illness
+title: The outcome of supported housing for people with long term mental illness
 date: 2021
 category: america
 image: {
